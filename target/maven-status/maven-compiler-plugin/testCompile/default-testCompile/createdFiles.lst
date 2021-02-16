@@ -1,0 +1,3 @@
+mvn\AppiumTest.class
+mvn\RESTAPITest.class
+mvn\SeleniumTest.class
